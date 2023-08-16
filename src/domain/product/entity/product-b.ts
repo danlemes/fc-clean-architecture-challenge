@@ -1,7 +1,6 @@
 import ProductInterface from "./product.interface";
 import Entity from "../../@shared/entity/entity.abstract";
 import NotificationError from "../../@shared/notification/notification.error";
-import ProductValidatorFactory from "../factory/product.validator.factory";
 import ProductBValidatorFactory from "../factory/product-b.validator.factory";
 
 
